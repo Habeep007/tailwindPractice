@@ -7,6 +7,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 const App = () => {
+  
   return (
     <div className="bg-gray-100">
       <Navbar />
